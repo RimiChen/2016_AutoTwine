@@ -9,6 +9,8 @@ Twine is a opensource for telling interactive, nonlinear stories. It supports us
 - Here is the original repository of Twine at BitBucket: https://bitbucket.org/klembot/twinejs
 - Here is the original website of Twine: https://twinery.org/
 
+Twine is under GNU General Public License.
+
 I migrated the original codes from BitBucket to Github, just because I am used to use Github.
 
 
