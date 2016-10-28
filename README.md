@@ -17,6 +17,6 @@ I migrated the original codes from BitBucket to Github, just because I am used t
 ##History
 Version 1.0.0  This version is developed for course project.
 
-##Author Information
-The original author is Yi-Chun Chen: RimiChen. She is now a graduate student in North Carolina State University (Unity ID: ychen74).
+##Repository Owner Information
+This repository is owned by Yi-Chun Chen: RimiChen. She is now a graduate student in North Carolina State University (Unity ID: ychen74).
 
