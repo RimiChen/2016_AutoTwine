@@ -1,0 +1,1 @@
+requireArr('../specs/**/*.js');
